@@ -1,0 +1,559 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details test Check if Details component renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <nav
+        class="mb-3 fixed-top navbar navbar navbar-expand-lg navbar-dark"
+      >
+        <div
+          class="container-fluid"
+        >
+          <a
+            class="navbar-name navbar-brand"
+            href="#"
+          >
+            Stock Market Metrics
+          </a>
+          <a
+            href="/"
+          >
+            <svg
+              class="text-white fw-bolder fs-3"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </a>
+        </div>
+      </nav>
+      <div
+        class="details-container"
+      >
+        <div
+          class="details-header"
+        >
+          <div
+            class="details-img-div"
+          >
+            <img
+              alt="company logo"
+              class="details-img img-fluid"
+            />
+          </div>
+          <p
+            class="stats-breakdown"
+          >
+            Stats Breakdown
+          </p>
+        </div>
+        <div
+          class="details-body"
+        >
+          <div
+            class="details-metric"
+          >
+            <p>
+              Company Name:
+               
+            </p>
+          </div>
+          <div
+            class="details-metric"
+          >
+            <p>
+              Symbol:
+               
+            </p>
+          </div>
+          <div
+            class="details-metric"
+          >
+            <p>
+              Currency:
+               
+            </p>
+          </div>
+          <div
+            class="details-metric"
+          >
+            <p>
+              Exchange:
+               
+            </p>
+          </div>
+          <div
+            class="details-metric"
+          >
+            <p>
+              Price:
+               
+            </p>
+          </div>
+          <div
+            class="details-metric"
+          >
+            <p>
+              Market Cap:
+               
+            </p>
+          </div>
+        </div>
+      </div>
+      ,
+    </div>
+  </body>,
+  "container": <div>
+    <nav
+      class="mb-3 fixed-top navbar navbar navbar-expand-lg navbar-dark"
+    >
+      <div
+        class="container-fluid"
+      >
+        <a
+          class="navbar-name navbar-brand"
+          href="#"
+        >
+          Stock Market Metrics
+        </a>
+        <a
+          href="/"
+        >
+          <svg
+            class="text-white fw-bolder fs-3"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </a>
+      </div>
+    </nav>
+    <div
+      class="details-container"
+    >
+      <div
+        class="details-header"
+      >
+        <div
+          class="details-img-div"
+        >
+          <img
+            alt="company logo"
+            class="details-img img-fluid"
+          />
+        </div>
+        <p
+          class="stats-breakdown"
+        >
+          Stats Breakdown
+        </p>
+      </div>
+      <div
+        class="details-body"
+      >
+        <div
+          class="details-metric"
+        >
+          <p>
+            Company Name:
+             
+          </p>
+        </div>
+        <div
+          class="details-metric"
+        >
+          <p>
+            Symbol:
+             
+          </p>
+        </div>
+        <div
+          class="details-metric"
+        >
+          <p>
+            Currency:
+             
+          </p>
+        </div>
+        <div
+          class="details-metric"
+        >
+          <p>
+            Exchange:
+             
+          </p>
+        </div>
+        <div
+          class="details-metric"
+        >
+          <p>
+            Price:
+             
+          </p>
+        </div>
+        <div
+          class="details-metric"
+        >
+          <p>
+            Market Cap:
+             
+          </p>
+        </div>
+      </div>
+    </div>
+    ,
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Home Check if Home component renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <nav
+          class="mb-3 fixed-top navbar navbar navbar-expand-lg navbar-dark"
+        >
+          <div
+            class="container-fluid"
+          >
+            <a
+              class="navbar-name navbar-brand"
+              href="#"
+            >
+              Stock Market Metrics
+            </a>
+            <button
+              aria-controls="offcanvasNavbar-expand-lg"
+              aria-label="Toggle navigation"
+              class="navbar-toggler collapsed"
+              type="button"
+            >
+              <span
+                class="navbar-toggler-icon"
+              />
+            </button>
+            <div
+              aria-labelledby="offcanvasNavbarLabel-expand-lg"
+              class="offcanvas offcanvas-end"
+              id="offcanvasNavbar-expand-lg"
+            >
+              <div
+                class="offcanvas-header"
+              >
+                <div
+                  class="offcanvas-title h5"
+                  id="offcanvasNavbarLabel-expand-lg"
+                >
+                  Stock Market Metrics
+                </div>
+                <button
+                  aria-label="Close"
+                  class="btn-close"
+                  type="button"
+                />
+              </div>
+              <div
+                class="offcanvas-body"
+              >
+                <div
+                  class="justify-content-end flex-grow-1 pe-3 navbar-nav"
+                >
+                  <a
+                    class="nav-link"
+                    data-rr-ui-event-key="#"
+                    href="#"
+                    role="button"
+                    tabindex="0"
+                  >
+                    Home
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+        <div
+          class="img-container"
+        >
+          <img
+            alt="stocks"
+            class="coverpageimg"
+            src="cover.png"
+          />
+          <div
+            class="main-text"
+          >
+            Trade Your Plans Not Your Emotions
+          </div>
+          <p
+            class="caption"
+          >
+            Find real-time stock prices below
+             
+            <span>
+              ↓
+            </span>
+          </p>
+        </div>
+        <div
+          class="stats"
+        >
+          <form
+            class="d-flex"
+          >
+            <p
+              class="stats-text"
+            >
+              Stats by company
+            </p>
+            <input
+              aria-label="Search"
+              class="searchbar form-control"
+              placeholder="Search by company name or symbol"
+              type="search"
+            />
+          </form>
+        </div>
+        <div
+          class="stock-container"
+        />
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <nav
+        class="mb-3 fixed-top navbar navbar navbar-expand-lg navbar-dark"
+      >
+        <div
+          class="container-fluid"
+        >
+          <a
+            class="navbar-name navbar-brand"
+            href="#"
+          >
+            Stock Market Metrics
+          </a>
+          <button
+            aria-controls="offcanvasNavbar-expand-lg"
+            aria-label="Toggle navigation"
+            class="navbar-toggler collapsed"
+            type="button"
+          >
+            <span
+              class="navbar-toggler-icon"
+            />
+          </button>
+          <div
+            aria-labelledby="offcanvasNavbarLabel-expand-lg"
+            class="offcanvas offcanvas-end"
+            id="offcanvasNavbar-expand-lg"
+          >
+            <div
+              class="offcanvas-header"
+            >
+              <div
+                class="offcanvas-title h5"
+                id="offcanvasNavbarLabel-expand-lg"
+              >
+                Stock Market Metrics
+              </div>
+              <button
+                aria-label="Close"
+                class="btn-close"
+                type="button"
+              />
+            </div>
+            <div
+              class="offcanvas-body"
+            >
+              <div
+                class="justify-content-end flex-grow-1 pe-3 navbar-nav"
+              >
+                <a
+                  class="nav-link"
+                  data-rr-ui-event-key="#"
+                  href="#"
+                  role="button"
+                  tabindex="0"
+                >
+                  Home
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div
+        class="img-container"
+      >
+        <img
+          alt="stocks"
+          class="coverpageimg"
+          src="cover.png"
+        />
+        <div
+          class="main-text"
+        >
+          Trade Your Plans Not Your Emotions
+        </div>
+        <p
+          class="caption"
+        >
+          Find real-time stock prices below
+           
+          <span>
+            ↓
+          </span>
+        </p>
+      </div>
+      <div
+        class="stats"
+      >
+        <form
+          class="d-flex"
+        >
+          <p
+            class="stats-text"
+          >
+            Stats by company
+          </p>
+          <input
+            aria-label="Search"
+            class="searchbar form-control"
+            placeholder="Search by company name or symbol"
+            type="search"
+          />
+        </form>
+      </div>
+      <div
+        class="stock-container"
+      />
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
