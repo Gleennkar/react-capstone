@@ -14,7 +14,7 @@ const Details = () => {
 
   return (
     <>
-      < Nav />
+      <Nav />
       <div className="details-container">
         <div className="details-header">
           <div className="details-img-div"><img src={company.image} alt="company logo" className="details-img img-fluid" /></div>
@@ -56,20 +56,20 @@ const Details = () => {
               {company.price}
             </p>
           </div>
-          { <div className="details-metric">
+          <div className="details-metric">
             <p>
               Range:
               {' '}
               {company.range}
             </p>
-          </div> }
-          {<div className="details-metric">
+          </div>
+          <div className="details-metric">
             <p>
               Changes:
               {' '}
               {company.changes}
             </p>
-          </div> }
+          </div>
           <div className="details-metric">
             <p>
               Market Cap:
